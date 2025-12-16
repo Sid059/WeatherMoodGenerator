@@ -1,35 +1,34 @@
-# 🌤️ Weather Mood Generator
+# 🌤️ Simple Weather App
 
-The Weather Mood Generator is a JavaScript program that creates randomized weather-based mood and activity predictions. I built this project to practice JavaScript fundamentals like objects, arrays, and randomization.
+A modern, responsive weather application I built to practice API integration and front-end development. Get real-time weather information for any location worldwide using the OpenWeatherMap API.
 
 ## Why I built this project:
 
-- To practice working with complex data structures in JavaScript
-- To learn about randomization algorithms and data organization
+- To practise API integration and data flow
+- To build responsive, interactive web interfaces
+- To practise real-time data handling and user input
 
-## What problem it solves:
+## What it does:
 
-- Serves as an educational tool for learning JavaScript concepts
+- Displays current weather for any city worldwide
+- Shows temperature, conditions, humidity, wind speed, and "feels like" temperature
+- Automatically detects user location
+- Updates UI themes based on time of day
+- Provides clean, mobile-friendly interface
 
 ## Features
 
-- 🌦️ 10+ Weather Types: Comprehensive coverage of various atmospheric conditions including sunny, rainy, stormy, snowy, foggy, and more
-- 💭 200+ Mood Combinations: Extensive mood mapping with nuanced emotional states for each weather type
-- 🎯 100+ Activity Suggestions: Curated activities tailored to specific weather conditions
-- 🎲 True Randomization: Completely random weather-mood-activity combinations every time
-- 📱 Zero Dependencies: Pure JavaScript implementation - no external libraries required
-- ⚡ Instant Results: Immediate generation with clean, formatted output
-
-## Installation & Usage:
-
-This project is designed to be zero-configuration and runs with minimal requirements:
-
-**Prerequisites**
-- Node.js (version 12 or higher)
-- A text editor (VS Code, Sublime Text, Notepad++, etc.)
+- 🌍 Real-Time Weather: Current conditions from OpenWeatherMap API
+- 📍 Location Detection: Automatic geolocation or manual city search
+- 🔍 City Search: Find weather for any city worldwide
+- 🎨 Time-Based Themes: Background colors change based on time of day
+- 📱 Responsive Design: Works on mobile, tablet, and desktop
+- 🎯 Quick Cities: One-tap access to London, New York, Tokyo, Paris
+- 💨 Detailed Metrics: Temperature, humidity, wind speed, feels-like temperature
 
 ## Technologies
 
-- JavaScript (ES6+): Core programming language for the application logic
-- Node.js: Runtime environment for executing the JavaScript code
-- Git: Version control system for tracking changes and collaboration
+- JavaScript (ES6+) - Core functionality and API integration
+- OpenWeatherMap API - Weather data source
+- Font Awesome - Weather icons
+- Browser APIs - Geolocation, Fetch API
