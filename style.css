@@ -465,6 +465,7 @@ body {
     animation: spin 1s linear infinite;
 }
 
+
 /* Responsive */
 @media (max-width: 768px) {
     body {
