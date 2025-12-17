@@ -3,7 +3,7 @@
 A modern, responsive weather application I built to practice API integration and front-end development. Get real-time weather information for any location worldwide using the OpenWeatherMap API.
 
 ## Live Demo: 
-[Click here](https://sid059.github.io/WeatherMoodGenerator/)
+[Click here](https://sid059.github.io/WeatherApplication/)
 
 ## Why I built this project:
 
